@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteEventReceiver", "RemoteEventReceiver\RemoteEventReceiver.csproj", "{7FDA0B9F-330A-4E9D-AED2-7964BC68F4CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteEventReceiverWeb", "RemoteEventReceiverWeb\RemoteEventReceiverWeb.csproj", "{505461F2-52D8-4D7F-971F-A3FDAFBCF2AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FDA0B9F-330A-4E9D-AED2-7964BC68F4CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FDA0B9F-330A-4E9D-AED2-7964BC68F4CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FDA0B9F-330A-4E9D-AED2-7964BC68F4CC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7FDA0B9F-330A-4E9D-AED2-7964BC68F4CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FDA0B9F-330A-4E9D-AED2-7964BC68F4CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FDA0B9F-330A-4E9D-AED2-7964BC68F4CC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{505461F2-52D8-4D7F-971F-A3FDAFBCF2AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{505461F2-52D8-4D7F-971F-A3FDAFBCF2AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{505461F2-52D8-4D7F-971F-A3FDAFBCF2AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{505461F2-52D8-4D7F-971F-A3FDAFBCF2AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7FDA45D-12A5-4767-9B2A-60098DF1897B}
+	EndGlobalSection
+EndGlobal
